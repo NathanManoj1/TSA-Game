@@ -43,8 +43,8 @@ InputManager:
     descriptiveNegativeName: 
     negativeButton: 
     positiveButton: 
-    altNegativeButton: v
-    altPositiveButton: n
+    altNegativeButton: 4
+    altPositiveButton: 6
     gravity: 3
     dead: 0.001
     sensitivity: 3
@@ -57,8 +57,8 @@ InputManager:
     m_Name: Vertical_P2
     descriptiveName: 
     descriptiveNegativeName: 
-    negativeButton: b
-    positiveButton: h
+    negativeButton: 5
+    positiveButton: 8
     altNegativeButton: 
     altPositiveButton: 
     gravity: 3
